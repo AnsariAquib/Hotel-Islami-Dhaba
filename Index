@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Islamic Dhaba Menu</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f8f8;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #ffcc00;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Islamic Dhaba Menu</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Menu</h2>
+            <table>
+                <tr>
+                    <th>Dish</th>
+                    <th>Price</th>
+                    <th>Payment Method</th>
+                </tr>
+                <tr>
+                    <td>Biryani</td>
+                    <td>₹200</td>
+                    <td>Cash/Card/UPI</td>
+                </tr>
+                <tr>
+                    <td>Paneer Tikka</td>
+                    <td>₹150</td>
+                    <td>Cash/Card/UPI</td>
+                </tr>
+                <tr>
+                    <td>Chicken Curry</td>
+                    <td>₹250</td>
+                    <td>Cash/Card/UPI</td>
+                </tr>
+            </table>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Islamic Dhaba. All rights reserved.</p>
+    </footer>
+</body>
+</html>
